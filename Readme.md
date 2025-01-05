@@ -4,7 +4,7 @@ Welcome to **Heritage Brews**, a cozy retreat where the rich aroma of freshly br
 
 ## Live Demo
 
-Check out the live demo of the website: [Heritage Brews Demo](https://your-username.github.io/heritage-brews)
+Check out the live demo of the website: [Heritage Brews Demo](https://FranklyAhamd.github.io/heritage-brews)
 
 ## Features
 
